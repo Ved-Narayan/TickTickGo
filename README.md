@@ -2,6 +2,11 @@
 
 > **Tick your tasks away with TickTickGo** - A sophisticated task management platform that helps you organize, prioritize, and complete your goals with style.
 
+![TickTickGo](https://img.shields.io/badge/TickTickGo-Task%20Management-blue?style=for-the-badge&logo=clock)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3-38B2AC?style=for-the-badge&logo=tailwind-css)
+
 ## ✨ Features
 
 ### 🎯 **Core Task Management**
@@ -53,7 +58,7 @@
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/Ved-Narayan/TickTickGo.git
+   git clone https://github.com/yourusername/ticktickgo.git
    cd ticktickgo
    \`\`\`
 
