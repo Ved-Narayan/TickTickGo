@@ -58,7 +58,7 @@
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/ticktickgo.git
+   git clone https://github.com/Ved-Narayan/TickTickGo.git
    cd ticktickgo
    \`\`\`
 
