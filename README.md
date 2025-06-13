@@ -58,7 +58,7 @@
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/Ved-Narayan/TickTickGo.git
+   git clone https://github.com/yourusername/ticktickgo.git
    cd ticktickgo
    \`\`\`
 
@@ -109,6 +109,10 @@ npm start
 - **CSS Animations** - Smooth transitions and loading states
 - **Real-time Clock** - Custom SVG-based analog clock
 
+### **Development Tools**
+- **ESLint** - Code linting
+- **Prettier** - Code formatting
+- **TypeScript** - Static type checking
 
 ## 📱 Usage
 
@@ -151,6 +155,21 @@ TickTickGo follows a **"Time-Centric"** design philosophy:
 - **Visual Hierarchy**: Clear priority indicators and status colors
 - **Minimal Friction**: Quick actions and intuitive workflows
 - **Celebration Culture**: Positive reinforcement for achievements
+
+## 🔧 Configuration
+
+### **Environment Variables**
+Create a `.env.local` file for custom configurations:
+
+\`\`\`env
+# App Configuration
+NEXT_PUBLIC_APP_NAME=TickTickGo
+NEXT_PUBLIC_APP_VERSION=1.0.0
+
+# Feature Flags
+NEXT_PUBLIC_ENABLE_ANALYTICS=true
+NEXT_PUBLIC_ENABLE_NOTIFICATIONS=true
+\`\`\`
 
 ### **Customization Options**
 - **Default Due Time**: Set in Settings → Advanced
@@ -218,6 +237,10 @@ We welcome contributions! Here's how you can help:
 - Update documentation as needed
 - Ensure responsive design compatibility
 
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 ## 🙏 Acknowledgments
 
 - **shadcn/ui** for the beautiful component library
@@ -225,8 +248,16 @@ We welcome contributions! Here's how you can help:
 - **Lucide** for the icon set
 - **Tailwind CSS** for the styling system
 - **Next.js** team for the amazing framework
+
+## 📞 Support
+
+- **Documentation**: Check this README and inline code comments
+- **Issues**: Report bugs via GitHub Issues
+- **Discussions**: Join community discussions
+- **Email**: support@ticktickgo.com (if applicable)
+
 ---
 
-**Made with ❤️ and ⏰ **
+**Made with ❤️ and ⏰ by the TickTickGo Team**
 
 *Tick your tasks away, one goal at a time!*
